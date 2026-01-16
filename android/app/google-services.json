@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591038085254",
+    "project_id": "rentapp-daril",
+    "storage_bucket": "rentapp-daril.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591038085254:android:ca932a9ebea05fd9867907",
+        "android_client_info": {
+          "package_name": "com.example.rentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtsogZtkAwDrIFtMQSv1TwK29vkkDaco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
